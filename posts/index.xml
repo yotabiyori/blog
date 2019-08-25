@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on よたびより</title>
+    <link>https://yotabiyori.github.io/blog/posts/</link>
+    <description>Recent content in Posts on よたびより</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 25 Aug 2019 20:41:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://yotabiyori.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugoはじめました。</title>
+      <link>https://yotabiyori.github.io/blog/posts/test/</link>
+      <pubDate>Sun, 25 Aug 2019 20:41:46 +0900</pubDate>
+      
+      <guid>https://yotabiyori.github.io/blog/posts/test/</guid>
+      <description> こんにちは、Hugo を始めました。
+Markdown記法 Markdownの書き方は以下のサイトが参考になります。
+ Wikipedia Qiita 日本語Markdownユーザー会  </description>
+    </item>
+    
+  </channel>
+</rss>
