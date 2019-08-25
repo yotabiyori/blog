@@ -6,10 +6,19 @@
     <description>Recent content in Tests on よたびより</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Aug 2019 20:44:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2019 21:52:49 +0900</lastBuildDate>
     
 	<atom:link href="https://yotabiyori.github.io/blog/test/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yeah</title>
+      <link>https://yotabiyori.github.io/blog/test/yeah/</link>
+      <pubDate>Sun, 25 Aug 2019 21:52:49 +0900</pubDate>
+      
+      <guid>https://yotabiyori.github.io/blog/test/yeah/</guid>
+      <description>yeahです！</description>
+    </item>
     
     <item>
       <title>New</title>
